@@ -15,21 +15,21 @@ The license for the data I collected from Wikipedia is ​the Creative Commons A
 Data Types
 
 The data types for the original source data are as follows:
-Unnamed: 0               object
-Country / dependency     object
-Total in km2 (mi2)       object
-Land in km2 (mi2)        object
-Water in km2 (mi2)       object
+Unnamed: 0               string
+Country / dependency     string
+Total in km2 (mi2)       string
+Land in km2 (mi2)        string
+Water in km2 (mi2)       string
 % water                 float64
-Unnamed: 6               object
+Unnamed: 6               string
 dtype: object
 
 The data types for the most cleaned version of the data in my project are as follows:
 
-Country/Territory/Dependency    object
-Total area in km2               object
-Land in km2                     object
-Water in km2                    object
+Country/Territory/Dependency    string
+Total area in km2               string
+Land in km2                     string
+Water in km2                    string
 dtype: object
 
 Column Description
