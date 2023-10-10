@@ -48,21 +48,32 @@ dtype: object
 Column Description
 
 Unnamed: 0 - Country/Dependency ranking of size based on sourcing and the way the data was collected
+
 Country / Dependency - Name of the location
+
 Total in km2 (mi2) - Total area of location in km2 (mi2)
+
 Land in km2 (mi2) - Total land area of location in km2 (mi2)
+
 Water in km2 (mi2) - Total water area of location in km2 (mi2)
+
 % water - Total percentage of location that is water
+
 Unnamed: 6 - Source and citation link for data provided, the notes column
 
 Country/Territory/Dependency - Name of the location
+
 Total in km2 - Total area of location in km2 
+
 Land in km2 - Total land area of location in km2 
+
 Water in km2 - Total water area of location in km2 
 
 Known Issues/Bias
 
 Issues with the data stem from the fact that not all countries and governments agree on the area of their and others claimed territory, which is why the Unnamed: 6 column exists. The Unnamed: 6 column, the notes column, has links to reasoning behind the numbers presented in the row and general notes about what data was included or not included. For example, in the row for Venezuela the link notes that the total area counted in the table does not include Guayana Esequiba, a disputed territory. For further information follow the link to the source data wikipedia page and view the hyperlinks for information regarding the reason for the areas listed. https://en.wikipedia.org/wiki/List_of_countries_and_dependencies_by_area 
 Other than the data presented potentially differing from data on the same topic on other sources the data has no issues or quirks.
+
 Potential bias in the data would also stem from the fact that not all countries and governments agree on the area of their and others claimed territory. For example, the total area for Ukraine includes the russian occupied territories of the state, despite Russia claiming and occupying those areas. This note is provided in the wikipedia page prior to the data table: 
+
 “Entries in this list include, but are not limited to, those in the ISO 3166-1 standard, which includes sovereign states and dependent territories. All 193 member states of the United Nations plus the two observer states are given a rank number. Largely unrecognised states not in ISO 3166-1 are included in the list in ranked order. The areas of such largely unrecognised states are in most cases also included in the areas of the more widely recognised states that claim the same territory; see the notes in the "notes" column for each country for clarification”.
