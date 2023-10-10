@@ -8,6 +8,7 @@ The goal of this project was to construct, analyze, and publish a data set on da
 API
 
 I did not use an API for this assignment.
+
 License
 
 The license for the data I collected from Wikipedia is ​the Creative Commons Attribution-Share Alike License 4.0. The license for my data published on data.world is the MIT License.
